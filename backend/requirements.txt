@@ -1,0 +1,8 @@
+Flask
+PyMuPDF
+python-docx
+pandas
+openpyxl
+requests
+google-genai
+python-dotenv
